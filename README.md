@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning
+I'm currently learning Machine Learning
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ I'm currently learning
 ![](https://streak-stats.demolab.com/?user=abhishekadhikari-247&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhishekadhikari-247&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
